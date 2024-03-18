@@ -1,0 +1,1 @@
+Bu dastur kodi ubuntu operatsion tizimida papkalardan backup(nuxsa) ko'chirsh uchun ishlatiladi.
